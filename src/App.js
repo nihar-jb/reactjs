@@ -38,7 +38,7 @@ function App() {
 
   return (
     <>
-       <h1> hello whats aspp</h1>
+       <h1> hell0</h1>
        <h1>hiii nihar</h1>
        <h1>{sub}</h1>
       <input type="text" placeholder="enter name" onChange={abcd} value={name}/>
